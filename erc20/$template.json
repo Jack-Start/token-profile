@@ -1,6 +1,6 @@
 {
-  "symbol": "Token symbol",
-  "address": "Contract Address",
+  "symbol": "NBT",
+  "address": "0x81f9de84dd3af0eb889fd9f09e104e5d1d306f96",
   "overview":{
         "en": "Token Description.",
         "zh": ""
